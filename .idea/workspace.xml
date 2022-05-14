@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit7" />
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28b5hp1zIw15TZzjs6UgCInZ8mS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652361465689</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="js commit8">
+      <created>1652439643000</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652439643000</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +142,7 @@
     <MESSAGE value="js commit5" />
     <MESSAGE value="js commit6" />
     <MESSAGE value="js commit7" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit7" />
+    <MESSAGE value="js commit8" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit8" />
   </component>
 </project>
