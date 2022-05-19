@@ -7,6 +7,5 @@ function solution(n) {
     } else {
         answer = -1;
     }
-
     return answer;
 }
