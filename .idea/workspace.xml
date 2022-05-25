@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit18">
-      <change afterPath="$PROJECT_DIR$/programmers23.js" afterDir="false" />
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit19">
+      <change afterPath="$PROJECT_DIR$/programmers24.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653298158332</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="js commit19">
+      <created>1653384131554</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1653384131554</updated>
+    </task>
+    <task id="LOCAL-00026" summary="js commit19">
+      <created>1653384177872</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1653384177872</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +260,7 @@
     <MESSAGE value="js commit16" />
     <MESSAGE value="js commit17" />
     <MESSAGE value="js commit18" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit18" />
+    <MESSAGE value="js commit19" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit19" />
   </component>
 </project>
