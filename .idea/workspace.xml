@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit32" />
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit33" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654657607522</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="js commit33">
+      <created>1654854699696</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1654854699696</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +338,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js commit8" />
     <MESSAGE value="js commit9" />
     <MESSAGE value="js commit10" />
     <MESSAGE value="js commit11" />
@@ -356,6 +362,7 @@
     <MESSAGE value="js commit30" />
     <MESSAGE value="js commit31" />
     <MESSAGE value="js commit32" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit32" />
+    <MESSAGE value="js commit33" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit33" />
   </component>
 </project>
