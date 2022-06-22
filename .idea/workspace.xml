@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit39">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit40" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -367,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655820753249</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="js commit40">
+      <created>1655873391618</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1655873391618</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +387,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js commit15" />
     <MESSAGE value="js commit16" />
     <MESSAGE value="js commit17" />
     <MESSAGE value="js commit18" />
@@ -407,6 +411,7 @@
     <MESSAGE value="js commit37" />
     <MESSAGE value="js commit38" />
     <MESSAGE value="js commit39" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit39" />
+    <MESSAGE value="js commit40" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit40" />
   </component>
 </project>
