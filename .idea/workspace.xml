@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit46" />
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit47">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +44,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651472570480</updated>
-    </task>
-    <task id="LOCAL-00006" summary="js commit3">
-      <created>1651758826000</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1651758826000</updated>
     </task>
     <task id="LOCAL-00007" summary="js commit4">
       <created>1651991195695</created>
@@ -386,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656574226227</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="js commit47">
+      <created>1656653934096</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1656653934096</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js commit22" />
     <MESSAGE value="js commit23" />
     <MESSAGE value="js commit24" />
     <MESSAGE value="js commit25" />
@@ -426,6 +427,7 @@
     <MESSAGE value="js commit44" />
     <MESSAGE value="js commit45" />
     <MESSAGE value="js commit46" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit46" />
+    <MESSAGE value="js commit47" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit47" />
   </component>
 </project>
