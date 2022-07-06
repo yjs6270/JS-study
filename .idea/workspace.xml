@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit50" />
+    <list default="true" id="69ae936d-ff20-4321-83cd-603230bc1a4a" name="Changes" comment="js commit51" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651472570480</updated>
-    </task>
-    <task id="LOCAL-00010" summary="js commit7">
-      <created>1652361465689</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1652361465689</updated>
     </task>
     <task id="LOCAL-00011" summary="js commit8">
       <created>1652439643000</created>
@@ -386,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656941647687</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="js commit51">
+      <created>1656981235951</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1656981235951</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +401,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js commit26" />
     <MESSAGE value="js commit27" />
     <MESSAGE value="js commit28" />
     <MESSAGE value="js commit29" />
@@ -426,6 +425,7 @@
     <MESSAGE value="js commit48" />
     <MESSAGE value="js commit49" />
     <MESSAGE value="js commit50" />
-    <option name="LAST_COMMIT_MESSAGE" value="js commit50" />
+    <MESSAGE value="js commit51" />
+    <option name="LAST_COMMIT_MESSAGE" value="js commit51" />
   </component>
 </project>
